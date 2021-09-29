@@ -1,0 +1,36 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    background-color: #BFEC51;
+}
+.option{
+    font-size: 23px;
+}
+#weather{
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: none;
+    border: 1px solid black;
+    font-size: 30px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+#place,#submit{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 23px;
+    outline: none;
+    margin: 5px;
+    padding: 5px;
+}
+h1{
+    font-size: 60px;
+}
+#desc{
+    font-size: 25px;
+}
+ul{
+    list-style-type: none;
+    border: none;
+    text-align: center;
+}
