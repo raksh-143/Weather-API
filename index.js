@@ -47,6 +47,7 @@ function display(result){
         $("#weather").css("background-image","url(./SASS/darkbg.png)");
     }
     else{
+        $("#weather").css("color","black");
         $("#weather").css("background-image","url(./SASS/pleasentbg.png)");
     }
     $("#weather").css("border","1px solid black");
